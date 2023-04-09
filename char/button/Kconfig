@@ -1,0 +1,5 @@
+config BUTTON_MY
+  tristate "Button Driver"
+  default y
+  help
+    this is buttons driver for FriendlyARM Mini2440 development boards

@@ -1,0 +1,1 @@
+obj-$(CONFIG_BUTTON_MY) += button.o
